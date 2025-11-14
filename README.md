@@ -1,20 +1,20 @@
-# Task 1 – Business Sales Dashboard from E-commerce Data
+# Task 1 - Sales Dashboard (FUTURE_DS_01)
 
-## 📊 Objective
-To analyze e-commerce sales data and create an interactive dashboard that highlights key business insights.
+## Objective
+Create an interactive Tableau dashboard visualizing sales data by category, region, and segment.
 
-## 🧠 Key Insights
-- Top-performing product categories  
-- Monthly revenue growth trend  
-- Customer order patterns and region-wise performance  
+## Tools Used
+- Tableau Public
+- Microsoft Excel (for data preparation)
 
-## 🛠️ Tools Used
-- Excel / Power BI / Tableau  
-- Python (optional)  
+## Insights
+- Technology category generated the highest sales.
+- The West region showed the strongest performance.
+- Consumer segment had the highest number of sales.
 
-## 📁 Deliverables
-- Sales Dashboard (Excel/Power BI file)  
-- Insights summary  
+## Files
+- Dashboard_Screenshot.png
+- SalesDashboard.twbx  
 
 ## 👩🏻‍💻 Author
 Kaveri H S
